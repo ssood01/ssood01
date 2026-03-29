@@ -1,7 +1,5 @@
 # Sonakshi Sood
 
-**Site Reliability Engineering · Platform Engineering · 9 years**
-
 I work at the intersection of reliability and platform engineering — building infrastructure, observability stacks, and incident workflows that scale without the operational debt.
 
 ---
